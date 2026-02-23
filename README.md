@@ -1,4 +1,4 @@
-# Networking a Hacking - Moje LogSeq poznámky
+# Networking a Hacking - LogSeq poznámky
 
 🌐 **[Otevřít interaktivní poznámky](https://nobanic.github.io/Networking-a-Hacking/#/graph)**
 
